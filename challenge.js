@@ -1,3 +1,5 @@
+// BEST GROUP EVER
+
 let i = 0
 let pause = false
 const likes = {}
